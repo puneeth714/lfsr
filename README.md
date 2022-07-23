@@ -38,7 +38,7 @@ clk={clock} seed={seed} out={output}
 
 ![Quartus](synthesis_circuit/lfsr_quartus.png)
 
-- check for the fitting design image at [lfsr_design](synthesis_circuit/lfsr_quartus_fitting.png)
+- check for the fitting design image at [lfsr_design](synthesis_circuit/lfsr_quartus_post_fitting_mapping.png)
 
 ### Applications
 
