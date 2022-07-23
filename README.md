@@ -38,6 +38,8 @@ clk={clock} seed={seed} out={output}
 
 ![Quartus](synthesis_circuit/lfsr_quartus.png)
 
+- check for the fitting design image at [lfsr_design](synthesis_circuit/lfsr_quartus_fitting.png)
+
 ### Applications
 
 - Linear function shift register is used to implement a pseudo-random number generator.
