@@ -28,6 +28,9 @@ This will produce the following output:
 ```
 clk={clock} seed={seed} out={output}
 ```
+- Otherwise make file can be used to test using cocotb in python
+- run ```make ``` to run the tests automatically.
+- run ```make clean``` to clean the build files.
 
 - The design is synthesizable(lfsr).
 - Below is the image of the design after synthesis.
