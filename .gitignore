@@ -1,0 +1,10 @@
+__pycache__
+sim_build
+results.xml
+*.vcd
+db
+incremental_db
+output_files
+a.out
+*.log
+*.bak
